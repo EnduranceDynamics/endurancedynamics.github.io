@@ -1,6 +1,12 @@
-# Endurance Dynamics
+# Endurance BlockChain by Endurance Dynamics
 
 
-A New BlockChain Company
+Using Blockchain to create community driven Fair, Friendly and Secure Smart Contracts
+
+
+
+
+
+
 
 
